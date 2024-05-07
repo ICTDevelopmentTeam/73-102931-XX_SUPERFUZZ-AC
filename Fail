@@ -1,16 +1,39 @@
 ----------------------------------------
-CHEK-POINT Report for "pins".
-Mon Apr 01 10:58:55 2024
+Shorts Report for "shorts".
+Thu May 02 19:10:06 2024
 73-102898-01_03
 ----------------------------------------
-Failed Open #1
-(223105) FLTR_P3V3_SFP_TX<21>_S0
-               c147_s0.1
-               c155_s0.1
-                l53_s0.1
-              sfp_s0.AB16
+Open #1 Thresh 24, Delay 200us      Ohms
+From: P1V0RT2_AVDD           113148   39
+             c11_91_rtv2.1
+             c12_91_rtv2.1
+             c13_91_rtv2.1
+             c14_91_rtv2.1
+               c30_rtv2.1
+               c31_rtv2.1
+               c32_rtv2.1
+              l1_91_rtv2.2
+               l3_rt5_6.1
+               l3_rt7_8.1
+Too many to print.
+To:   FLTR_BV0_AVDDH_RT7_8    11348   39
+              c19_rt7_8.1
+              c23_rt7_8.1
+              c38_rt7_8.1
+              c41_rt7_8.1
+              c44_rt7_8.1
+              c47_rt7_8.1
+              c50_rt7_8.1
+              c60_rt7_8.1
+              c61_rt7_8.1
+              c62_rt7_8.1
+Too many to print.
+Common Devices:
+                l3_rt7_8
+Message is:
+Check L3_RT7_8
 ------End, 1 Problem Reported-----------
-Serial #: FLM28120A11
+Serial #: FLM27150K8G
 
 
 
